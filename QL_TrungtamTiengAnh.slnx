@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QL_TrungtamTA.BLL/QL_TrungtamTA.BLL.csproj" />
+  <Project Path="QL_TrungtamTA.DAL/QL_TrungtamTA.DAL.csproj" />
+  <Project Path="QL_TrungtamTiengAnh/QL_TrungtamTiengAnh.GUI.csproj" />
+</Solution>
